@@ -12,7 +12,7 @@ o O jogador realiza um ataque na célula à sua frente
 
 Objetivo: matar o boss final no terceiro andar da dungeon
 
-Símbolos:
+Símbolos
 < Jogador olhando para a esquerda
 ^ Jogador olhando para cima
 > Jogador olhando para a direita
