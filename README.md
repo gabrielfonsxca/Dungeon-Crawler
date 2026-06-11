@@ -17,8 +17,8 @@ Símbolos:
 ^ Jogador olhando para cima
 > Jogador olhando para a direita
 v Jogador olhando para baixo
-* Parede: o jogador não pode passar
-# Espinho: o jogador morre ao passar por cima
+" * " Parede: o jogador não pode passar
+" # " Espinho: o jogador morre ao passar por cima
 k Caixa: o jogador não pode passar, mas pode ser destruída com ataque
 O Botão: executa uma ação ao ser pressionado
 D Porta fechada: o jogador não pode passar
